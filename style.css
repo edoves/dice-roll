@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: teal;
+    font-size: 16px;
+    color: #fff;
+}
+
+img {
+    max-width: 100%;
+}
+
+.center-dice {
+    text-align: center;
+}
+
+h1,
+.dice-box,
+#roll {
+    margin: 10px;
+}
+
+.dice-box {
+    border: 1px #000 solid;
+    width: 500px;
+    height: 300px;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.dice-box img {
+    width: 50%;
+    margin-bottom:10px!important;
+}
+
+#roll {
+    background-color: #1cb597;
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.dice-rand-num {
+    font-size: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
